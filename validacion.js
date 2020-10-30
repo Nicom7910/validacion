@@ -16,7 +16,7 @@ function validar() {
 	}
 	
 	else{
-		alert("Hola");
+		alert("Formulario registrao");
 	}
 }
 
